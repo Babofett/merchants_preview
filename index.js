@@ -34,13 +34,13 @@ let mockMerchants = [
     {
       "name": "Pizzeria Stern",
       "address": {
-        "street": "Hauptstraße",
-        "number": 10,
-        "postalCode": "35390",
-        "city": "Gießen"
+          "street": "Westanlage",
+          "number": 20,
+          "postalCode": "35390",
+          "city": "Gießen"
       },
       "category": 1,
-      "id": "b8082774-ebe2-4aa6-8572-53aa9550b5c2",
+      "id": "000000-ebe2-4aa6-8572-53aa9550b5c2",
       "headerImage": "",
       "icon": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/logo-pizza-design-template-8329a51d86709c07def8a222d93138ea_screen.jpg",
       "description": "",
@@ -49,43 +49,28 @@ let mockMerchants = [
     {
       "name": "Zahnarzt Franke",
       "address": {
-        "street": "Hauptstraße",
-        "number": 10,
-        "postalCode": "35390",
-        "city": "Gießen"
+          "street": "Goethestraße",
+          "number": 4,
+          "postalCode": "35398",
+          "city": "Gießen"
       },
       "category": 2,
-      "id": "2ad7dab6-aef6-4a99-9047-8f29182306c1",
+      "id": "b8082774-0000-4aa6-8572-53aa9550b5c2",
       "headerImage": "",
       "icon": "https://t4.ftcdn.net/jpg/03/02/68/11/360_F_302681154_9HOWdvGLtCKpfwO5B85yESszG7MfmlUl.jpg",
       "description": "",
       "rating": 2.45
     },
     {
-      "name": "LaserTagShack",
-      "address": {
-        "street": "Hauptstraße",
-        "number": 10,
-        "postalCode": "35390",
-        "city": "Gießen"
-      },
-      "category": 3,
-      "id": "b2fe27a3-377b-46f8-89d1-8f0a9be2b011",
-      "headerImage": "",
-      "icon": "https://previews.123rf.com/images/vasilyrosca/vasilyrosca1612/vasilyrosca161200091/68591072-laser-tag-zielspielplakat-flyer-vector-lasertag-banner-f%C3%BCr-spa%C3%9F-party-ziel-geschossen-plakat-.jpg",
-      "description": "",
-      "rating": 4.1
-    },
-    {
       "name": "The Barber Shop",
       "address": {
-        "street": "Hauptstraße",
-        "number": 10,
-        "postalCode": "35390",
-        "city": "Gießen"
+          "street": "Wichernweg",
+          "number": 12,
+          "postalCode": "35394",
+          "city": "Gießen"
       },
       "category": 4,
-      "id": "bdbf77cf-839d-4ddf-a773-97b69496dbb2",
+      "id": "b8082774-ebe2-4aa6-0000-53aa9550b5c2",
       "headerImage": "",
       "icon": "https://i.pinimg.com/originals/04/0e/d9/040ed98defb52539c6ef68703fbde157.png",
       "description": "",
@@ -94,13 +79,13 @@ let mockMerchants = [
     {
       "name": "Bowling Valley",
       "address": {
-        "street": "Hauptstraße",
-        "number": 10,
-        "postalCode": "35390",
-        "city": "Gießen"
+          "street": "Justus-Kilian-Str.",
+          "number": 1,
+          "postalCode": "35457",
+          "city": "Lollar"
       },
       "category": 3,
-      "id": "a9c470e7-ca39-4fe8-b56c-00c344ec6865",
+      "id": "b8082774-ebe2-4aa6-8572-00000550b5c2",
       "headerImage": "",
       "icon": "https://img.freepik.com/vektoren-kostenlos/bowling-logo-etiketten-abzeichen_266639-32.jpg?size=338&ext=jpg",
       "description": "",
